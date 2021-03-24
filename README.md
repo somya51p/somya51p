@@ -1,6 +1,6 @@
 ### Hi there, I'm Somya Prajapati <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a Student || Open Source contributor || python Web developer || ML enthusiast || Interested in Computer vision!!
+#### I'm a Student || Open Source contributor || python Web developer || ML enthusiast ||
 
 - 🔭 I am currently working on Web development!
 - 🌱 I’m currently learning everything 🤣
