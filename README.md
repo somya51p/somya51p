@@ -15,6 +15,7 @@
 [<img align="left" alt="somya51p | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="somya51p | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="_somya2001p_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="somya51p | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
 <br />
 
@@ -54,3 +55,4 @@
 [twitter]: https://twitter.com/somya51p
 [instagram]: https://www.instagram.com/_somya2001p_/
 [linkedin]: https://www.linkedin.com/in/somya51p/
+[leetcode]: https://leetcode.com/somya51p
