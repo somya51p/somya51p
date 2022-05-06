@@ -2,11 +2,12 @@
 
 #### I'm a Student || Open Source contributor || python Web developer || ML enthusiast ||
 
+- 😄 Pronouns: She/Her
 - 🔭 I am currently working on Web development!
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about: Django, React
 - 👯 I’m looking to collaborate with other enthusiasts
-- 🥅 2021 Goals: Contribute more to Open Source projects and Competitive Programming
+- 🥅 2022 Goals: Contribute more to Open Source projects and Competitive Programming
 - 📫 How to reach me: 2019343@iiitdmj.ac.in
 
 
