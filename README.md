@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/Her
 - 🔭 I am currently working on Web development!
 - 🌱 I’m currently learning everything 🤣
-- 💬 Ask me about: Django, React
+- 💬 Ask me about: Angular, Django, React
 - 👯 I’m looking to collaborate with other enthusiasts
 - 🥅 2022 Goals: Contribute more to Open Source projects and Competitive Programming
 - 📫 How to reach me: 2019343@iiitdmj.ac.in
